@@ -1,3 +1,3 @@
-module github.com/raulcejas04/mipackage
+module github.com/raulcejas04/mypackage
 
 go 1.19
